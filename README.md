@@ -1,2 +1,2 @@
 # wordChain
-word chain game
+word chain game in JAVA
